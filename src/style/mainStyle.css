@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(46, 39, 67);
+    color: white;
+}
+
+.cheese{
+    width: 100px;
+    height: 100px;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: rgb(63, 55, 87);
+}
+
+a{
+    color: white;
+    margin-left: 25px;
+    margin-right: 25px;
+    
+}
+
+main{
+    display:  flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.SergoTheBest{
+    border-radius: 15px;
+}
+
+nav{
+    gap:50px;
+ 
+}
